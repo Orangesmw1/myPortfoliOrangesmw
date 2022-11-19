@@ -1,0 +1,52 @@
+/* Header 
+==============================  */
+
+.cd-header {
+}
+
+.cd-header .container {
+    height: 100% !important;
+}
+
+.cd-header .twelve {
+}
+
+.cd-header .twelve.columns {
+    height: 100% !important;
+    margin-top: 0 !important;
+}
+
+.cd-header .twelve .logo-wrap {
+
+}
+
+.logo-wrap img {
+    object-fit: cover;
+    height: 80px !important;
+    width: 180px !important;
+}
+
+/* Main 
+==============================  */
+
+/* Sections carousel
+======================= */
+
+.cd-section {
+
+}
+
+.cd-section #owl-top .item {
+    background-size: cover !important;
+}
+
+
+
+.cd-section .home-text-sec {
+
+}
+
+.cd-section .home-text-sec .twelve p {
+    font-size: 1.2rem;
+}
+
